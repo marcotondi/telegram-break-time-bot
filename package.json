@@ -1,0 +1,23 @@
+{
+  "name": "break-time-bot",
+  "version": "1.0.0",
+  "description": "A simple bot to remember the breaks",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "telgram",
+    "bot",
+    "telegraf"
+  ],
+  "author": "Marco Tondi",
+  "license": "GPL v3",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "moment": "^2.22.2",
+    "path": "^0.12.7",
+    "simple-node-logger": "^0.93.37",
+    "telegraf": "^3.22.1"
+  }
+}

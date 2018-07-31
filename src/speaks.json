@@ -1,0 +1,162 @@
+{
+    "99": {
+        "_09": [
+            "Ma è ancora troppo presto per la pausa, arriva almeno a lavoro prima! -_-",
+            "Ti sei sveglito almeno?",
+            "Dai su, è presto ancora",
+            "Il caffè a casa non è considerata pausa",
+            "Se il corridoio non è aperto la pausa non è iniziata",
+            "😎 Così sembri sveglio e pimpante, lascia gli occhiali almeno fino al caffè",
+            "Notte da leoni, mattina da c*******. 😴 \nAddormentati!",
+            "Io anche voglio il caffè che ti credi! Ma almeno aspettiamo le 09 😅"
+        ],
+        "_11": [
+            "Devi aspettare la pausa delle 11:00 suvvia!",
+            "Arriva, non ti preoccupare",
+            "Pausa hai detto? ancora no su",
+            "Fai finta di lavorare un pochino",
+            "Tiziano cerca sempre qualcuno con cui fare pausa, vai da lui se proprio devi",
+            "L/'attesa della pausa è essa stessa una pausa"
+        ],
+        "_13": [
+            "Hai fame? magari fai uno spuntino :)",
+            "Beh, mo lavora seriamente",
+            "Dormi fino alla pausa pranzo se proprio devi",
+            "Ogni tanto fai rumore sulla tastiera, così non dai nell/'occhio ;)",
+            "L/'attesa della pausa è essa stessa una pausa",
+            "Ho fameee",
+            "Dove mangiamo oggi?",
+            "Siiii, anche io voglio una pausaaaa"
+        ],
+        "_15": [
+            "Vuoi il caffè? aspetta le 15:15",
+            "Il caffè delle 15.15 non è proprio una pausa, ma si avvicina molto",
+            "Il caffè si beve alle 15:15. Però non è una pausa 😅",
+            "Controlla, sono le 15.15? Allora devi aspettare"
+        ],
+        "_16": [
+            "L/'attesa della pausa è essa stessa una pausa",
+            "Resisti un altro po/' ",
+            "E che devi fare? Lavora ancora un altro po/'",
+            "Manca poco? alle 16.30 inizia la pausa, vedi un po/' tu",
+            "Vorrei, ma non posso...",
+            "Bah... perché non andiamo via invece?"
+        ],
+        "_17": [
+            "Tra poco te ne vai a casa, cosa vuoi di più?",
+            "Se il giovedì si va al cantiere, oggi dove andiamo?",
+            "Usciamo stasera?",
+            "Voglio una ichnusa! Chi viene con me?"
+        ],
+        "break": [
+            "SBRIGATI! La pausa è già cominciata!",
+            "Mo finisce se non ti sbrighi",
+            "Caffèèè",
+            "Pausaaa",
+            "E tu chi sei? Pausa? :D",
+            "Tataratàààà",
+            "Daiiii che siamo tutti in pausa! Tutti, almeno io ci sono già",
+            "Io pauso, tu pausi, egli pausaaaaaaaa"
+        ]
+    },
+    "1": {
+        "_09": [
+            "Ti capisco, il lunedì mattina non è mai troppo presto per la pausa 😴",
+            "Perché non aboliamo il lunedì mattiana?! ",
+            "Sei ancora in tempo, ferie del lunedì e via a mareee",
+            "Io pure voglio un caffèèèèèè"
+        ],
+        "_11": [
+            "La pausa delle 11 è la più bella non trovi? 😁",
+            "Caffè? Bah, aspettiamo le 11...",
+            "Ma quando arrivano le 11? ",
+            "Na tazzulella 'e cafè...\ne maje niente ce fanno sapé...\nNuje ce puzzammo 'e famme",
+            "Anticipare la pausa? ma te sei pazzo?!? 😱"
+        ],
+        "_13": [
+            "Il lunedì dove si mangia?",
+            "Hai detto pizza?!?",
+            "Dormi fino alla pausa pranzo se proprio devi",
+            "Ogni tanto fai rumore sulla tastiera, così non dai nell/'occhio ;)"
+        ],
+        "_15": [],
+        "_16": [
+            "Vorrei qualcosa di buono... Caffè?"
+        ],
+        "_17": [
+            "Dai, che almeno lunedì è finito... ci vediamo domani per un caffè?",
+            "Lunedì? in disco!"
+        ],
+        "break": []
+    },
+    "2": {
+        "_09": [
+            "Dai su? che è martedì... accendi prima il pc e ci vediamo per un caffè",
+            "Il martedì non ci sono per nessuno 😴",
+            "Per qualcuno il martedì andrebbe abolito. Concordo appieno!",
+            "Io pure voglio un caffèèèèèè",
+            "Senti a me, prendi ferie e scappaaa"
+        ],
+        "_11": [
+            "Hai lavorato almeno un pochino?",
+            "Dai su, aspetta almeno le 11",
+            "Il Martedì ha l'oro in bocca... oppure no? 🤔",
+            "Anvedi come balla Nandooo"
+        ],
+        "_13": [
+            "Ho fame anche io, che ti credi?",
+            "Che si mangia il martedì?",
+            "Se fai silenzio e non chiedi pause puoi sonnecchiare fino alle 13",
+            "Martedì dolce dormire..."
+        ],
+        "_15": [
+            "Il caffè si beve alle 15.15. Ne prima ne dopo...",
+            "Vorrei qualcosa di buono... Caffè?",
+            "E tu chi sei? Caffè?"
+        ],
+        "_16": [],
+        "_17": [
+            "Stasera usciamo?"
+        ],
+        "break": []
+    },
+    "3": {
+        "_09": [],
+        "_11": [],
+        "_13": [],
+        "_15": [],
+        "_16": [],
+        "_17": [],
+        "break": []
+    },
+    "4": {
+        "_09": [],
+        "_11": [],
+        "_13": [],
+        "_15": [],
+        "_16": [],
+        "_17": [],
+        "break": []
+    },
+    "5": {
+        "_09": [],
+        "_11": [],
+        "_13": [],
+        "_15": [],
+        "_16": [],
+        "_17": [],
+        "break": []
+    },
+    "6": {
+        "fiesta": [
+            "Ma è sabato? E allora **fiestaaa** 😬",
+            "Tutti al mareee tutti al mare a mostrar le chiappe chiareeee"
+        ]
+    },
+    "0": {
+        "fiesta": [
+            "Ma la domenica che pausa vuoi? 😑",
+            "Tutti al mareee tutti al mare a mostrar le chiappe chiareeee"
+        ]
+    }
+}
